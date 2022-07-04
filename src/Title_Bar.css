@@ -1,0 +1,13 @@
+.title_bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+  color: white;
+  background-color: #000000;
+  margin: auto;
+  width: 80%;
+}
+.title_bar_div {
+  font-size: 46px;
+}

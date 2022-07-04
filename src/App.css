@@ -1,0 +1,21 @@
+* {
+  background-color: black;
+}
+.header {
+  display: flex;
+  color: white;
+  flex-direction: column;
+  justify-items: space-between;
+  text-align: center;
+  margin: 50px;
+}
+.header_searchBox input {
+  border: none;
+  background-color: #07d7f3;
+  margin: 10px;
+  width: 240px;
+  height: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 15px;
+}
